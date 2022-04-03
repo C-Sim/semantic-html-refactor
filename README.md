@@ -21,9 +21,23 @@ OK to use id for semantic elements which could be duplicated to futureproof? e.g
 OK to remove id for semantic elements which will only occur once? e.g. footer
 OK to name class and id the same name?
 
+//To do:
+Deploy live URL
+Add live URL link to readme
+Submit GitHub URL
+Add final screenshots to readme
+
 Technologies:
 Semantic HTML
 CSS
 Git
 
 //Screenshots (before and after)
+![HTML before 1](screenshots/before/Screenshot 2022-04-03 at 16.54.23.png)
+![HTML before 2](screenshots/before/Screenshot 2022-04-03 at 16.57.36.png)
+![HTML before 3](screenshots/before/Screenshot 2022-04-03 at 16.57.58.png)
+![CSS before 1](screenshots/before/Screenshot 2022-04-03 at 16.58.28.png)
+![CSS before 2](screenshots/before/Screenshot 2022-04-03 at 16.58.49.png)
+![CSS before 3](screenshots/before/Screenshot 2022-04-03 at 16.59.11.png)
+![CSS before 4](screenshots/before/Screenshot 2022-04-03 at 16.59.42.png)
+![CSS before 5](screenshots/before/Screenshot 2022-04-03 at 16.59.57.png)

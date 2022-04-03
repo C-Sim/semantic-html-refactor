@@ -4,7 +4,12 @@ Semantic HTML refactor for marketing agency website
 
 Link to deployed GitHub Page:
 
-Short Description
+Accessibility improved by:
+Adding descriptive page title
+Fixing broken links
+Adding alt attributes to images
+Adding title to background image
+'Div's replaced with semantic HTML elements
 
 Technologies:
 Semantic HTML

@@ -27,7 +27,6 @@ Accessibility improved by:
 
 //To do:
 
-- Submit GitHub URL
 - Add final screenshots to readme
 
 Technologies:
@@ -52,3 +51,13 @@ CSS _before_
 ![CSSb3](screenshots/before/Screenshot 2022-04-03 at 16.59.11.png)
 ![CSSb4](screenshots/before/Screenshot 2022-04-03 at 16.59.42.png)
 ![CSSb5](screenshots/before/Screenshot 2022-04-03 at 16.59.57.png)
+
+HTML _after_
+![HTMLa1](screenshots/after/Screenshot 2022-04-05 at 18.04.57.png)
+![HTMLa2](screenshots/after/Screenshot 2022-04-05 at 18.05.20.png)
+![HTMLa3](screenshots/after/Screenshot 2022-04-05 at 18.05.42.png)
+
+CSS _after_
+![CSSa1](screenshots/after/Screenshot 2022-04-05 at 18.06.00.png)
+![CSSa2](screenshots/after/Screenshot 2022-04-05 at 18.06.32.png)
+![CSSa3](screenshots/after/Screenshot 2022-04-05 at 18.06.32.png)

@@ -36,16 +36,19 @@ Technologies:
 - CSS
 - Git
 
-//Screenshots (before and after)
+Webpage _before_
+![Webpage before](screenshots/before/screencapture-127-0-0-1-5500-class-content-01-HTML-Git-CSS-02-Homework-Develop-index-html-2022-04-05-17_46_17.png)
 
-[Website before]
-[Website after] (../screenshots/after/screencapture-127-0-0-1-5501-index-html-2022-04-05-17_15_05.png)
+Website _after_
+![Webpage after](screenshots/after/screencapture-127-0-0-1-5501-index-html-2022-04-05-17_15_05.png)
 
-1. [HTML before 1](../screenshots/before/Screenshot 2022-04-03 at 16.54.23.png)
-2. [HTML before 2](../screenshots/before/Screenshot 2022-04-03 at 16.57.36.png)
-3. [HTML before 3](../screenshots/before/Screenshot 2022-04-03 at 16.57.58.png)
-4. [CSS before 1](../screenshots/before/Screenshot 2022-04-03 at 16.58.28.png)
-5. [CSS before 2](../screenshots/before/Screenshot 2022-04-03 at 16.58.49.png)
-6. [CSS before 3](../screenshots/before/Screenshot 2022-04-03 at 16.59.11.png)
-7. [CSS before 4](../screenshots/before/Screenshot 2022-04-03 at 16.59.42.png)
-8. [CSS before 5](../screenshots/before/Screenshot 2022-04-03 at 16.59.57.png)
+HTML _before_
+![HTMLb1](screenshots/before/Screenshot 2022-04-03 at 16.54.23.png)
+![HTMLb2](screenshots/before/Screenshot 2022-04-03 at 16.57.36.png)
+![HTMLb3](screenshots/before/Screenshot 2022-04-03 at 16.57.58.png)
+CSS _before_
+![CSSb1](screenshots/before/Screenshot 2022-04-03 at 16.58.28.png)
+![CSSb2](screenshots/before/Screenshot 2022-04-03 at 16.58.49.png)
+![CSSb3](screenshots/before/Screenshot 2022-04-03 at 16.59.11.png)
+![CSSb4](screenshots/before/Screenshot 2022-04-03 at 16.59.42.png)
+![CSSb5](screenshots/before/Screenshot 2022-04-03 at 16.59.57.png)

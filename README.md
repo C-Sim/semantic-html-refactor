@@ -1,4 +1,4 @@
-# Semantic-HTML-Refactor
+# semantic html refactor
 
 ## Summary
 
@@ -30,14 +30,15 @@ Accessibility improved by:
 - Semantic HTML
 - CSS
 - Git
+- GitHub pages
 
 ## Webpage _before_
 
-![Webpage before](screenshots/before/screencapture-127-0-0-1-5500-class-content-01-HTML-Git-CSS-02-Homework-Develop-index-html-2022-04-05-17_46_17.png)
+![Webpage before refactor](screenshots/before/screencapture-127-0-0-1-5501-index-html-2022-04-05-17_15_05.png)
 
 ## Webpage _after_
 
-![Webpage after](screenshots/after/screencapture-127-0-0-1-5501-index-html-2022-04-05-17_15_05.png)
+![Webpage after refactor](screenshots/after/screencapture-127-0-0-1-5501-index-html-2022-04-05-17_15_05.png)
 
 ## HTML _before_
 

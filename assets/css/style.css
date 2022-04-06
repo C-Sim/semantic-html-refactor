@@ -10,7 +10,7 @@ body {
 }
 
 /* Format agency name to represent logo */
-header {
+.header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -18,17 +18,17 @@ header {
   color: #ffffff;
 }
 
-header h1 {
+.header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
-header h1 #seo {
+.header h1 #seo {
   color: #d9dcd6;
 }
 
 /* Format nav bar to display in a row and remove bullet points and hyperlink defaults */
-header nav {
+.header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -36,11 +36,11 @@ header nav {
   font-size: 20px;
 }
 
-header nav ul {
+.header nav ul {
   list-style-type: none;
 }
 
-header nav ul li {
+.header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -65,7 +65,7 @@ p {
 }
 
 /* Format section layout, content, images and headings */
-#content {
+.contents {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
@@ -100,7 +100,7 @@ p {
 }
 
 /* Format aside layout, content, icons and headings */
-#benefits {
+.benefits {
   margin-right: 20px;
   padding: 20px;
   clear: both;
@@ -111,23 +111,23 @@ p {
   background-color: #2589bd;
 }
 
-.benefits h3 {
+.benefit h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
-.benefits {
+.benefit {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefits img {
+.benefit img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-footer {
+.footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -135,6 +135,6 @@ footer {
   text-align: center;
 }
 
-footer h4 {
+.footer h4 {
   font-size: 20px;
 }

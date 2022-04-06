@@ -27,7 +27,8 @@ Accessibility improved by:
 
 //To do:
 
-- Add final screenshots to readme
+- Add code screenshots to readme
+- Fix webpage before screenshot
 
 Technologies:
 
@@ -42,22 +43,23 @@ Website _after_
 ![Webpage after](screenshots/after/screencapture-127-0-0-1-5501-index-html-2022-04-05-17_15_05.png)
 
 HTML _before_
-![HTMLb1](screenshots/before/Screenshot 2022-04-03 at 16.54.23.png)
-![HTMLb2](screenshots/before/Screenshot 2022-04-03 at 16.57.36.png)
-![HTMLb3](screenshots/before/Screenshot 2022-04-03 at 16.57.58.png)
+![HTMLb1](screenshots/before/Screenshot-2022-04-03.16.54.23.png)
+![HTMLb2](screenshots/before/Screenshot-2022-04-03.16.57.36.png)
+![HTMLb3](screenshots/before/Screenshot-2022-04-03.16.57.58.png)
+
 CSS _before_
-![CSSb1](screenshots/before/Screenshot 2022-04-03 at 16.58.28.png)
-![CSSb2](screenshots/before/Screenshot 2022-04-03 at 16.58.49.png)
-![CSSb3](screenshots/before/Screenshot 2022-04-03 at 16.59.11.png)
-![CSSb4](screenshots/before/Screenshot 2022-04-03 at 16.59.42.png)
-![CSSb5](screenshots/before/Screenshot 2022-04-03 at 16.59.57.png)
+![CSSb1](screenshots/before/Screenshot-2022-04-03.16.58.28.png)
+![CSSb2](screenshots/before/Screenshot-2022-04-03.16.58.49.png)
+![CSSb3](screenshots/before/Screenshot-2022-04-03.16.59.11.png)
+![CSSb4](screenshots/before/Screenshot-2022-04-03.16.59.42.png)
+![CSSb5](screenshots/before/Screenshot-2022-04-03.16.59.57.png)
 
 HTML _after_
-![HTMLa1](screenshots/after/Screenshot 2022-04-05 at 18.04.57.png)
-![HTMLa2](screenshots/after/Screenshot 2022-04-05 at 18.05.20.png)
-![HTMLa3](screenshots/after/Screenshot 2022-04-05 at 18.05.42.png)
+![HTMLa1](screenshots/after/Screenshot-2022-04-05.18.04.57.png)
+![HTMLa2](screenshots/after/Screenshot-2022-04-05.18.05.20.png)
+![HTMLa3](screenshots/after/Screenshot-2022-04-05.18.05.42.png)
 
 CSS _after_
-![CSSa1](screenshots/after/Screenshot 2022-04-05 at 18.06.00.png)
-![CSSa2](screenshots/after/Screenshot 2022-04-05 at 18.06.32.png)
-![CSSa3](screenshots/after/Screenshot 2022-04-05 at 18.06.32.png)
+![CSSa1](screenshots/after/Screenshot-2022-04-05.18.06.00.png)
+![CSSa2](screenshots/after/Screenshot-2022-04-05.18.06.32.png)
+![CSSa3](screenshots/after/Screenshot-2022-04-05.18.06.46.png)

@@ -25,11 +25,6 @@ Accessibility improved by:
 - OK to remove id for semantic elements which will only occur once? e.g. footer
 - OK to name class and id the same name?
 
-//To do:
-
-- Add code screenshots to readme
-- Fix webpage before screenshot
-
 ## Technologies
 
 - Semantic HTML

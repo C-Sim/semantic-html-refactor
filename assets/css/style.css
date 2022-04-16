@@ -27,7 +27,7 @@ body {
   color: #d9dcd6;
 }
 
-/* Format nav bar to display in a row and remove bullet points and hyperlink defaults */
+/* Header and nav styles */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -54,7 +54,7 @@ p {
   font-size: 16px;
 }
 
-/* Format hero image to fill page horizontally and set height and space below */
+/* Background image */
 #hero {
   height: 800px;
   width: 100%;
@@ -64,7 +64,7 @@ p {
   background-position: center;
 }
 
-/* Format section layout, content, images and headings */
+/* Section layout, content, images and headings */
 .contents {
   width: 75%;
   display: inline-block;
@@ -99,7 +99,7 @@ p {
   color: #ffffff;
 }
 
-/* Format aside layout, content, icons and headings */
+/* Aside layout, content, icons and headings */
 .benefits {
   margin-right: 20px;
   padding: 20px;
